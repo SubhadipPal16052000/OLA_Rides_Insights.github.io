@@ -1,0 +1,8 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Streamlit secrets
+.streamlit/secrets.toml 
